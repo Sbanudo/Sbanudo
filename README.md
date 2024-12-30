@@ -1,4 +1,5 @@
 Hi there 👋
+
 idk what i can type here, but my stack is: typescript/prisma/nuxt/tailwindcss/(sometimes chatgpt)
 
 <!--
