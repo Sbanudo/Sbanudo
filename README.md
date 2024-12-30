@@ -1,6 +1,7 @@
-Hi there 👋
-
+### Hi there 👋
 idk what i can type here, but my stack is: typescript/prisma/nuxt/tailwindcss/(sometimes chatgpt)
+
+discord: sbans
 
 <!--
 **Sbanudo/Sbanudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
